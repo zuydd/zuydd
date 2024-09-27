@@ -1,6 +1,5 @@
 ## 🕹 Danh sách tool NodeJS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=moonbix&title_color=facb49&icon_color=facb49&border_color=facb49&bg_color=fffbef)](https://github.com/zuydd/moonbix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=blum&title_color=197706&icon_color=197706&border_color=197706&bg_color=f3f9f2)](https://github.com/zuydd/blum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=tomarket&title_color=ff3f6d&icon_color=ff3f6d&border_color=ff3f6d&bg_color=fff6f8)](https://github.com/zuydd/tomarket)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=match-quest&title_color=fea722&icon_color=fea722&border_color=fea722&bg_color=fffaf1)](https://github.com/zuydd/match-quest)
