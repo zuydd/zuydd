@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=tomarket&title_color=ff3f6d&icon_color=ff3f6d&border_color=ff3f6d&bg_color=fff6f8)](https://github.com/zuydd/tomarket)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=okx&title_color=b2e500&icon_color=b2e500&border_color=b2e500&bg_color=f9ffe4)](https://github.com/zuydd/okx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=major&title_color=fabd3e&icon_color=fabd3e&border_color=fabd3e&bg_color=fffaf1)](https://github.com/zuydd/major)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=order-id&title_color=0ea5e9&icon_color=0ea5e9&border_color=0ea5e9&bg_color=f0f9ff)](https://github.com/zuydd/order-id)
 
 ## 🧩 Danh sách script GPM Login
 
