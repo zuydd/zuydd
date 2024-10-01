@@ -1,3 +1,6 @@
+## Thông báo
+Tin không vui là nick telegram của mình đã bay màu và chưa hẹn ngày trở về 😥, vậy nên nếu cần liên hệ gì với mình vui lòng nhắn qua nick mới https://t.me/zuy_dd Lưu ý nhắn gì thì vào thẳng vấn đề để mình rep lại, đừng có chào hỏi hay alo rồi vứt đó mình không rep đâu
+
 ## 🕹 Danh sách tool NodeJS
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=moonbix&title_color=facb49&icon_color=facb49&border_color=facb49&bg_color=fffbef&cache_seconds=21600)](https://github.com/zuydd/moonbix)
