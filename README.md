@@ -1,5 +1,6 @@
 ## Thông báo
 Tin vui là mình lấy lại được acc Telegram rồi nhé 😉
+Tool chạy bị lỗi thì làm ơn xem lúc chạy tool có thông báo gì từ hệ thống không, chứ lỗi quái gì cũng ib mình trong khi đã ghi rất rõ vấn đề ở thông báo khi chạy tool rồi. Làm ơn tập đọc chữ đừng có cắm đầu chạy tool
 
 ## 🕹 Danh sách tool NodeJS
 
