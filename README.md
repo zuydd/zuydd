@@ -15,6 +15,7 @@ Có tool hay script nào thì đều share ở đây hết rồi, ở đây khô
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=okx&title_color=b2e500&icon_color=b2e500&border_color=b2e500&bg_color=f9ffe4&cache_seconds=21600)](https://github.com/zuydd/okx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=major&title_color=fabd3e&icon_color=fabd3e&border_color=fabd3e&bg_color=fffaf1&cache_seconds=21600)](https://github.com/zuydd/major)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=order-id&title_color=0ea5e9&icon_color=0ea5e9&border_color=0ea5e9&bg_color=f0f9ff&cache_seconds=21600)](https://github.com/zuydd/order-id)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zuydd&repo=claim-lol&title_color=9333ea&icon_color=9333ea&border_color=9333ea&bg_color=f3e8ff&cache_seconds=21600)](https://github.com/zuydd/claim-lol)
 
 ## 🧩 Danh sách script GPM Login
 
